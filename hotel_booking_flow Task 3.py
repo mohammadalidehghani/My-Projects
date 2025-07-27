@@ -1,5 +1,5 @@
 """
-Author: Mohammadali Dehghani | Student ID: 12432957
+Author: Mohammadali Dehghani 
 """
 
 import pandas as pd
